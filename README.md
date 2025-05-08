@@ -79,8 +79,8 @@ $ nvm use 16
 Now using node v16.9.1 (npm v7.21.1)
 $ node -v
 v16.9.1
-$ nvm use 14
-Now using node v14.18.0 (npm v6.14.15)
+$ nvm use 14.18.0
+Now using node v14.18.1 (npm v6.14.15)
 $ node -v
 v14.18.0
 $ nvm install 12
